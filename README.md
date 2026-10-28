@@ -21,10 +21,10 @@ A public distribution repository for Starsector mods, release notes, installatio
 
 ### AI Girls Officer Pack / AI娘军官包
 
-Current public release / 当前公开版本：`aigs-v0.3`
+Current public release / 当前公开版本：[aigs-v0.3](https://github.com/101SHArkKnight/starsector-mod-releases/releases/tag/aigs-v0.3)
 
-- English edition / 英文版: pending public upload / 待公开上传
-- Chinese edition / 中文版: pending public upload / 待公开上传
+- English edition / 英文版: [aigs-0.3-en.zip](https://github.com/101SHArkKnight/starsector-mod-releases/releases/download/aigs-v0.3/aigs-0.3-en.zip)
+- Chinese edition / 中文版: [aigs-0.3.zip](https://github.com/101SHArkKnight/starsector-mod-releases/releases/download/aigs-v0.3/aigs-0.3.zip)
 
 ## Installation Guide / 安装说明
 
