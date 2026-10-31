@@ -21,10 +21,16 @@ A public distribution repository for Starsector mods, release notes, installatio
 
 ### AI Girls Officer Pack / AI娘军官包
 
-Current public release / 当前公开版本：[aigs-v0.3](https://github.com/101SHArkKnight/starsector-mod-releases/releases/tag/aigs-v0.3)
+Current public release / 当前公开版本：[aigs-v0.3.1](https://github.com/101SHArkKnight/starsector-mod-releases/releases/tag/aigs-v0.3.1)
 
-- English edition / 英文版: [aigs-0.3-en.zip](https://github.com/101SHArkKnight/starsector-mod-releases/releases/download/aigs-v0.3/aigs-0.3-en.zip)
-- Chinese edition / 中文版: [aigs-0.3.zip](https://github.com/101SHArkKnight/starsector-mod-releases/releases/download/aigs-v0.3/aigs-0.3.zip)
+- English edition / 英文版: [aigs-0.3.1-en.zip](https://github.com/101SHArkKnight/starsector-mod-releases/releases/download/aigs-v0.3.1/aigs-0.3.1-en.zip)
+- Chinese edition / 中文版: [aigs-0.3.1.zip](https://github.com/101SHArkKnight/starsector-mod-releases/releases/download/aigs-v0.3.1/aigs-0.3.1.zip)
+
+Version 0.3.1 fixes Seedance's projection scan-band crash with Fast Rendering 0.9.4. Retested in-game by the author; skill stats and save identifiers are unchanged.
+
+0.3.1 修复 Seedance 投影扫描光带与 Fast Rendering 0.9.4（快速渲染）的战斗崩溃，作者已实机复测确认，技能数值与存档标识不变。
+
+[Previous release / 旧版 0.3](https://github.com/101SHArkKnight/starsector-mod-releases/releases/tag/aigs-v0.3)
 
 ## Installation Guide / 安装说明
 
